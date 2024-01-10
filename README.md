@@ -1,1 +1,4 @@
 # Notes
+
+## Subjects
+- Artificial intelligence 
