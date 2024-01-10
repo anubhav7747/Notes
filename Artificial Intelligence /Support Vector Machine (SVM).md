@@ -69,3 +69,14 @@ Since we are in 3-d Space, hence it is looking like a plane parallel to the x-ax
 ![support-vector-machine-algorithm9](https://github.com/anubhav7747/Notes/assets/77168708/98d0ed1d-bbba-4d5e-903d-7004879d4138)
 
 Hence we get a circumference of radius 1 in case of non-linear data.
+
+## Applications of support vector machine: ##
+1. **Face observation** - It is used for detecting the face according to the classifier and model.
+2. **Text and hypertext arrangement** - In this, the categorization technique is used to find important information or you can say required information for arranging text.
+3. **Bioinformatics** - It is also used for medical science as well like in labratory, DNA, research, etc.
+4. **Handwriting remembrance** - In this, it is used for handwriting recognition.
+5. In the case of classification, the goal is to find a boundary that separates the different classes of data as well as possible. The input data is plotted in a high-dimensional space (with as many dimensions as the number of features), and the SVM algorithm finds the best boundary that separates the classes.
+6. In the case of regression, the goal is to find the best hyperplane that fits the data. Similar to classification, the data is plotted in a high-dimensional space, but instead of trying to separate the classes, the algorithm is trying to fit the data with the best hyperplane.
+7. One of the main advantages of SVM is that it works well in high-dimensional spaces and it’s relatively memory efficient. it also able to handle non-linearly separable data by transforming them into a higher dimensional space where they become linear separable, this is done by using kernel trick.
+8. SVMs are not just limited to linear boundaries, it could also handle non-linear boundaries by using kernel functions that allow us to map the input data into a higher-dimensional space where it becomes linearly separable. The most commonly used kernel functions are linear, polynomial and radial basis functions (RBF).
+9. SVMs are popular in various applications such as image classification, natural language processing, bioinformatics, and more.
