@@ -1,7 +1,5 @@
 # Notes
 
-## Subjects
-
 - ### Artificial intelligence
   - [Classification and Regression](https://github.com/anubhav7747/Notes/tree/main/Artificial%20Intelligence%20/Classification%20and%20Regression%20)
   - [K-Nearest Neighbors](https://github.com/anubhav7747/Notes/blob/main/Artificial%20Intelligence%20/K-Nearest%20Neighbor%20(KNN).md)
