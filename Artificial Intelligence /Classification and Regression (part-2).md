@@ -1,7 +1,7 @@
 # Classification 
 
 ## Objective
-In classification problems, the goal is to assign input data points to discrete categories or classes. The output is a label representing the class to which the input belongs. Classification either predicts categorical class labels or classifies data (construct a model) based on the training set and the values (class labels) in classifying attributes and uses it in classifying new data.
+In classification problems, the goal is to assign input data points to discrete categories or classes. The output is a label representing the class to which the input belongs. Classification either predicts categorical class labels or classifies data (construct a model) based on the training set and the values (class labels) in classifying attributes and uses it in classifying new data. The task of the classification algorithm is to find the mapping function to map the input(x) to the discrete output(y).
 
 ## Examples
 - **Spam detection:** Classify emails as spam or not spam.
