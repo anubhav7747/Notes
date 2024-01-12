@@ -1,7 +1,7 @@
 # Regression
 
 ## Objective
-  In regression problem, the goal is to predict a continuous numeric value. The output is a real number, and the model's task is to learn the relationship between the input features and the target variable.
+In regression problem, the goal is to predict a continuous numeric value. The output is a real number, and the model's task is to learn the relationship between the input features and the target variable. In other words, regression is a statistical approach used to analyze the relationship between a dependent variable (target variable) and one or more independent variables (predictor variables). The objective is to determine the most suitable function that characterizes the connection between these variables. It seeks to find the best-fitting model, which can be utilized to make predictions or draw conclusions.
 
 ## Examples
   1. Predicting house prices based on features like size, number of bedrooms, etc.
