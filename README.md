@@ -11,3 +11,10 @@
   - [K-Nearest Neighbors](https://github.com/anubhav7747/Notes/blob/main/Artificial%20Intelligence%20/K-Nearest%20Neighbor%20(KNN).md)
   - [Naive Bayes Classifier](https://github.com/anubhav7747/Notes/blob/main/Artificial%20Intelligence%20/Na%C3%AFve%20Bayes%20Classifier.md)
   - [Support Vector Machine (SVM)](https://github.com/anubhav7747/Notes/blob/main/Artificial%20Intelligence%20/Support%20Vector%20Machine%20(SVM).md)
+
+- ### Computer Network
+    - [Network Layer](https://github.com/anubhav7747/Notes/tree/main/Computer%20Network/Network%20Layer)
+      - [IPv4](https://github.com/anubhav7747/Notes/blob/main/Computer%20Network/Network%20Layer/IPv4.md)
+    - [Transport Layer](https://github.com/anubhav7747/Notes/tree/main/Computer%20Network/Transport%20Layer)
+      - [Transmission Control Protocol (TCP)](https://github.com/anubhav7747/Notes/blob/main/Computer%20Network/Transport%20Layer/Transmission%20Control%20Protocol%20(TCP).md)
+      - [User Datagram Protocol (UDP)](https://github.com/anubhav7747/Notes/blob/main/Computer%20Network/Transport%20Layer/User%20Datagram%20Protocol%20(UDP).md)
