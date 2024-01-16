@@ -11,5 +11,16 @@
 
 ![transport-layer-protocols2](https://github.com/anubhav7747/Notes/assets/77168708/06d6036a-ccd5-4662-8497-46f2df9ea678)
 
+The description of various field of a UDP packet header is as follows:
+- **Source Port Number:**
+  - It is a 16-bit long field that define the source process port number of sender machine.
+  - If the UDP packet is being sent from the client, that is, if the source host is client, then the source port number will be chosen randomly by the UDP software running on the client.
+  - If the UDP packet is sent by the server, the source port number will be a well-known port used with UDP.
+  - Some of the well-known ports used with UDP are listed in following table.
 
-
+    **Port** | **Protocol** | **Description**
+    -------- | ------------ | -------------
+    |13|Daytime|Returns the date and the time|
+    |53|Name sever|Domain name service|
+    |111|RPC|Remote procedure call|
+    123|NTP|Network time protocol
