@@ -17,7 +17,13 @@ Routing tables are of two types: _static_ and _dynamic routing table_.
 
 ## Distance Vector Algorithm
 A distance vector algorithm is a type of routing algorithm used in computer networks to determine the best path for routing packets between nodes. The key characteristic of distance vector algorithms is that they consider both the direction and distance (metric) to reachable destinations. The most well-known distance vector routing algorithm is the Routing Information Protocol (RIP).
+1. A router transmits its distance vector to each of its neighbors in a rotuing packet.
+2. Each router receives and saves the most recently received distance vector from each of its neighbors.
+3. A router recalculates its distance vector when:
+   - It receives a distance vector from a neighbor containing different information than before.
+   - It discovers that a link to a neighbor has gone down.
 
+_The  distance vector calculation is based on minimizing the cost to each destination._
 
 
 
