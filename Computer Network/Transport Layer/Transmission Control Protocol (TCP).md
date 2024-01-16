@@ -1,4 +1,4 @@
-# Transmission Control Protocol Segment Format
+# Transmission Control Protocol (TCP)
 
 ![transport-layer-protocols3](https://github.com/anubhav7747/Notes/assets/77168708/3780eb7a-f942-485f-9d87-2751e7b9632b)
 
