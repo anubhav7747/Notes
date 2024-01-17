@@ -15,6 +15,9 @@
 - ### Computer Network
     - [Network Layer](https://github.com/anubhav7747/Notes/tree/main/Computer%20Network/Network%20Layer)
       - [IPv4](https://github.com/anubhav7747/Notes/blob/main/Computer%20Network/Network%20Layer/IPv4.md)
+      - [Routing Protocols](https://github.com/anubhav7747/Notes/blob/main/Computer%20Network/Network%20Layer/Routing%20Protocols.md)
+      - [Network Address Translation (NAT)](https://github.com/anubhav7747/Notes/blob/main/Computer%20Network/Network%20Layer/Network%20Address%20Translation%20(NAT).md)
+      - [Routing Information Protocol (RIP)](https://github.com/anubhav7747/Notes/blob/main/Computer%20Network/Network%20Layer/Routing%20Protocols.md)
     - [Transport Layer](https://github.com/anubhav7747/Notes/tree/main/Computer%20Network/Transport%20Layer)
       - [Transmission Control Protocol (TCP)](https://github.com/anubhav7747/Notes/blob/main/Computer%20Network/Transport%20Layer/Transmission%20Control%20Protocol%20(TCP).md)
       - [User Datagram Protocol (UDP)](https://github.com/anubhav7747/Notes/blob/main/Computer%20Network/Transport%20Layer/User%20Datagram%20Protocol%20(UDP).md)
