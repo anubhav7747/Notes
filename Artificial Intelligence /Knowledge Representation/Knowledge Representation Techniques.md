@@ -1,4 +1,6 @@
-Knowledge representation is a fundamental task in artificial intelligence (AI) that involves organizing knowledge into a form that can be used for reasoning, problem-solving, and decision-making. There are mainly four ways of knowledge representation:
+# Knowledge Representation Techniques
+
+Knowledge representation is a fundamental task in artificial intelligence (AI) that involves organizing knowledge into a form that can be used for reasoning, problem-solving, and decision-making. There are mainly four ways of knowledge representations:
 
   ![ai-techniques-of-knowledge-representation](https://github.com/anubhav7747/Notes/assets/77168708/5e218b9b-e6c7-4dc3-930c-8978e678567d)
 
