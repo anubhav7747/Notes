@@ -23,9 +23,31 @@ Here are the key steps of the K-Means clustering algorithm:
     - Recalculate the centroid of each cluster by taking the mean of all the data points assigned to that cluster.
 4. **Repeat:**
     - Repeat steps 2 and 3 until convergence. Convergence occurs when the assignment of data points to clusters no longer changes or changes very minimally.
+
   
 ## What is the objective of k-means clustering?
 The goal of clustering is to divide the population or set of data points into a number of groups so that the data points within each group are more comparable to one another and different from the data points within the other groups. It is essentially a grouping of things based on how similar and different they are to one another.
+
+
+## Advantages of K-Means:
+- Simple and easy to understand.
+- Efficient and scale well to large datasets.
+- Works well when clusters are spherical and equally sized.
+
+
+## Limitations and Considerations
+- Sensitivity to initial centroids: K-Means may converge to different solutions depending on the initial centroid positions.
+- Assumes clusters are spherical and equally sized, which may not be the case in real-world data.
+- K needs to be specified in advance, and finding the optimal value can be challenging.
+- Sensitive to outliers.
+
+
+## Applications
+- Image compression.
+- Customer segmentation in marketing.
+- Anomaly detection.
+- Document clustering.
+
 
 ## Conclusion
 K-means clustering is a powerful unsupervised machine learning algorithm for grouping unlabeled datasets. Its objective is to divide data into clusters, making similar data points part of the same group. The algorithm initializes cluster centroids and iteratively assigns data points to the nearest centroid, updating centroids based on the mean of points in each cluster.
