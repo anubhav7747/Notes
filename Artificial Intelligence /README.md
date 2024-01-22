@@ -14,6 +14,7 @@
     7. [Regression](https://github.com/anubhav7747/Notes/blob/main/Artificial%20Intelligence%20/Machine%20Learning/Basics%20/07%20Regression.md)
     8. [Classification vs Regression](https://github.com/anubhav7747/Notes/blob/main/Artificial%20Intelligence%20/Machine%20Learning/Basics%20/08%20Classification%20vs%20Regression.md)
     9. [Unsupervised Machine Learning ](https://github.com/anubhav7747/Notes/tree/main/Artificial%20Intelligence%20/Machine%20Learning/Basics%20)
+    10. [Supervised vs Unsupervised learning](https://github.com/anubhav7747/Notes/blob/main/Artificial%20Intelligence%20/Machine%20Learning/Basics%20/10%20Supervised%20vs%20Unsupervised%20learning.md)
   - Decision Tree
     1. [Decision Tree](https://github.com/anubhav7747/Notes/blob/main/Artificial%20Intelligence%20/Machine%20Learning/Decision%20Tree/Decision%20Tree.md)
     2. [Decision Tree Classification Algorithm](https://github.com/anubhav7747/Notes/blob/main/Artificial%20Intelligence%20/Machine%20Learning/Decision%20Tree/Decision%20Tree%20Classification%20Algorithm.md)
