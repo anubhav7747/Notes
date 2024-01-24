@@ -1,4 +1,4 @@
-## Explain in brief the greedy strategy of algorithm design and write control abstraction of greedy approach.
+## Sort the following list of elements in increasing order using quick sort technique and argue on its running time, L = {60, 65, 70, 75, 80, 55, 50, 45, 40}.
 
 Sure, let's use the QuickSort algorithm to sort the list L = {60, 65, 70, 75, 80, 55, 50, 45, 40} in increasing order. The QuickSort algorithm is a divide-and-conquer algorithm that works by selecting a 'pivot' element from the array and partitioning the other elements into two sub-arrays, according to whether they are less than or greater than the pivot. Here's how it works:
 
