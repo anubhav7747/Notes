@@ -12,4 +12,6 @@
 
 - ### DAA Exam Related Material
 
+- ### Internet of Things (IoT)
+
 - ### Python Exam Related Material
