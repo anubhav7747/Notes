@@ -18,3 +18,5 @@
 The Internet of Things (IoT) is the network of physical devices, vehicles, home appliances, and others embedded with electronics, software, sensors, actuators, and connectivity which enables these things to connect and exchange data, creating opportunities for more immediate integration between the physical world and computer-based systems.
 
 With regard to M2M (machine-to-machine) communication, there are several differences. The M2M communications are used to connect machines to machines within the same cellular network. The IoT is used to connect machines to machines across different cellular networks.
+
+![communication in iot vs m2m](https://github.com/anubhav7747/Notes/assets/77168708/2abd83d9-34ea-43e2-bc2d-f2a9b880702f)
