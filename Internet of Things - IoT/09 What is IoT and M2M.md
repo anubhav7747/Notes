@@ -1,0 +1,9 @@
+## What is IoT and M2M?
+The Internet of Things (IoT) and Machine-to-Machine (M2M) communication are two concepts that are often used in the context of connectivity, data sharing, and automation.
+
+**Internet of Things (IoT)**: IoT refers to the network of physical objects embedded with software, sensors, and other technologies to connect and share data with multiple devices over the internet. It is an environment in which devices share data via the networking media known as the internet. Users can build fast, scalable, high-performance networks by connecting a wide range of devices via the technologies with the use of IoT devices.
+
+**Machine-to-Machine (M2M)**: M2M stands for Machine to Machine communication. It is a direct communication system between the devices using wired or wireless communications channels without any human interaction. It collects the data and shares it with other connected devices. It is a technology that allows devices without the use of the internet to connect between devices.
+
+The **key difference** between IoT and M2M is that IoT connects any device to the Internet for better performance, and M2M is the connection of two or more devices with the Internet for data sharing and analytics. The point-to-point communication of M2M is the main difference between M2M and IoT technology. Meanwhile, an IoT system usually locates its devices within a global cloud network that facilitates larger-scale automation and more advanced applications. Another key difference between IoT and M2M is scalability. IoT is designed to be highly scalable because devices may also be included in the network and integrated into existing networks with minimal issues. In contrast, maintaining and setting up M2M networks could also be more labor-intensive, as new point-to-point connections must be built for each system.
+
