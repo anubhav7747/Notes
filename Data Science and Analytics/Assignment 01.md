@@ -45,7 +45,7 @@ For example, an e-commerce company might generate data through customer interact
 
 
 **Importance of Machine Learning in Data Analysis**
-Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns, and make decisions with minimal human intervention⁵. Here's why it's important:
+Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns, and make decisions with minimal human intervention. Here's why it's important:
 
 - **Automation**: Machine learning can automate large-scale data analysis, making the process more efficient and less time-consuming.
 - **Predictive Capabilities**: Machine learning algorithms can predict future outcomes based on historical data. This predictive nature enhances data analysis techniques.
@@ -57,7 +57,7 @@ For instance, a bank might use machine learning to analyze transaction data and 
 <br>
 
 ## Question 3. 
-### Discuss the skill set of data science, data engineer, data manager? What is difference between data scientist and data analyst?
+### Discuss the skill set of data science, data engineer and data manager. What is difference between data scientist and data analyst?
 
 **Skill Set of a Data Scientist**
 Data Scientists are expected to have a comprehensive skill set that spans across technical proficiency, analytical acumen, strategic foresight, and interpersonal effectiveness. Here are some key skills:
@@ -87,7 +87,7 @@ While both data scientists and data analysts work with data, they do so in diffe
 <br>
 
 ## Question 4. 
-### Define Bigdata? Discuss bigdata types with example and How to differentiate them? Also explain its 5-V characteristics?
+### Define Big Data? Discuss big data types with example and how to differentiate them? Also explain its 5-V characteristics?
 
 **Definition of Big Data**
 Big Data can be defined as a high amount of data that cannot be processed or stored with the help of standard processing equipment and data storage. It is a collection of data that is huge in volume, yet growing exponentially with time. It is a data with so large size and complexity that none of traditional data management tools can store it or process it efficiently.
